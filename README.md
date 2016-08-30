@@ -15,10 +15,10 @@ Note：
   seriesid有值，而specid没值,也可以正常运行（specid=''）
 
 2.个别seriesid的页面报解码错误，无法解决，也只有6个而已，故让其打印错误seriesid并跳过错误，继续抓取下一个页面
-#error seriesid	
-#3170
-#2951
-#3103
-#3457
-#86
-#3736
+error seriesid	
+3170
+2951
+3103
+3457
+86
+3736
