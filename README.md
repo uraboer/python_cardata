@@ -3,7 +3,9 @@
 要求：
   从汽车之家网站上抓取汽车配置信息，存入结构化数据库中
   使用mysql-essential-6.0.11-alpha-winx64.msi
+  
   SQLyog-12.2.5-0.x86Trial.exe 查看表
+  
   Project Interpreter: python 3.5.2
   Package: PyMySQL\pypyodbc\setuptools\pip
   
