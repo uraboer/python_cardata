@@ -167,7 +167,7 @@ while(n!=2060):
                 continue
     except:
         print(seriesid)
-        f_seriesid_error = codecs.open('D:/seriesid_error.txt', 'w', 'utf-8')
+        f_seriesid_error = codecs.open('D:/seriesid_error.txt', 'a', 'utf-8')
         f_seriesid_error.write(seriesid)
         f_seriesid_error.close()
 
